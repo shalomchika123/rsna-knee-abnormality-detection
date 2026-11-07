@@ -9,7 +9,7 @@ with several MRI series. Score: mean AUC over the 12 findings.
 from free-text radiology reports (several languages) or from the images themselves, while the test set is graded by
 radiologists reading the images. This turned out to be a *labelling* problem more than a modelling one.
 
-**Result.** A late submission scoring **0.956 private / 0.965 public** (the competition's 10th place scored 0.957,
+**Result.** A late submission scoring **0.956 private / 0.966 public** (the competition's 10th place scored 0.957,
 1st place 0.960). Late submissions are not ranked; the score is reported for comparison only.
 
 I am a medical student, and I built this with an AI assistant (Claude) helping me write and debug the code. What
